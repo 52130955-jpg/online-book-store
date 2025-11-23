@@ -7,3 +7,8 @@ The Online Bookstore is a React-based web application that allows users to brows
 - Add and remove books from the shopping cart.
 - Real-time cart count displayed in the navbar.
 - Responsive UI design.
+
+**Screenshot:**
+![Home Page](public/home.png)
+![shopping-cart Page](public/shopping-cart.png)
+![search Page](public/search.png)
